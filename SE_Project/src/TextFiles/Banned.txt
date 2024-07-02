@@ -1,0 +1,6 @@
+@START
+@BANNED
+@USER=susTest
+@GROUP=Photography
+@END
+

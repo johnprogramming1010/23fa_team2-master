@@ -1,0 +1,14 @@
+.root {
+	-fx-padding: 10px;
+}
+
+GridPane {
+	-fx-hgap:10px;
+	-fx-vgap:10px;
+}
+
+HBox {
+	-fx-spacing:10px;
+
+}
+
